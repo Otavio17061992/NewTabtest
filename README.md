@@ -2,13 +2,12 @@
 
 
 
-Function MeuNovoCommit() {
+
+Function MeuNovoCommit(Number1 , Number2) {
     let commit = 1
     if (commit = 1) {
         console.log ('Sucesso')
     }
 
-
-    return MeuNovoCommit()
+    return Number1 , Number2
 }
-
